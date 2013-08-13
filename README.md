@@ -1,4 +1,4 @@
-<p><markdown>
+
 #Markdown Live Editor#
 #Hi#
 
@@ -29,4 +29,4 @@ To learn more about markdown click [here][6]
   [4]: http://bugs.com
   [5]: http://placehold.it/350x150
   [6]: http://daringfireball.net/projects/markdown/
-</markdown></p>
+
